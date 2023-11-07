@@ -1,0 +1,17 @@
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\bin\Debug\net7.0\AsyncTaskProject.Console.exe
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\bin\Debug\net7.0\AsyncTaskProject.Console.deps.json
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\bin\Debug\net7.0\AsyncTaskProject.Console.runtimeconfig.json
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\bin\Debug\net7.0\AsyncTaskProject.Console.dll
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\bin\Debug\net7.0\AsyncTaskProject.Console.pdb
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.AssemblyInfoInputs.cache
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.AssemblyInfo.cs
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.csproj.CoreCompileInputs.cache
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.dll
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\refint\AsyncTaskProject.Console.dll
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.pdb
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.genruntimeconfig.cache
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\ref\AsyncTaskProject.Console.dll
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.csproj.AssemblyReference.cache
+C:\Users\aduz\source\repos\AsyncTaskProject.Console\AsyncTaskProject.Console\obj\Debug\net7.0\AsyncTaskProject.Console.csproj.CopyComplete
